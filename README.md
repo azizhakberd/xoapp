@@ -1,2 +1,0 @@
-# xoapp
-Begin app
